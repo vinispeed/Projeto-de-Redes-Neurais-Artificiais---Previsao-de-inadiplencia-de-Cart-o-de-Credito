@@ -56,7 +56,7 @@ Prever se um cliente irá ou não entrar em inadimplência, auxiliando institui�
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato pelo [seu email ou GitHub].
+Para dúvidas ou sugestões, entre em contato pelo https://www.linkedin.com/in/marcos-vi-silva/.
 
 ---
-Projeto desenvolvido para fins de
+Projeto desenvolvido para fins de estudo e demonstração de técnicas de classificação em problemas de risco de crédito.
